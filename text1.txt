@@ -1,2 +1,6 @@
 this is my first line
 this is second line
+<<<<<<< HEAD
+=======
+this line was edited on Github online!
+>>>>>>> 2e341888648d2eec2a0f24ce3e86fbb3e87b121c
